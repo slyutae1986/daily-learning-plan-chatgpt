@@ -1,69 +1,89 @@
-# Aurora Plan - Daily Learning System
+# 🌌 Aurora-Plan 学习与邮件自动化系统
 
-## 项目简介
+> 一个融合提示工程、AI 学习与实战演练的学习自动化系统，支持每日任务、邮件提醒与项目扩展。
 
-Aurora Plan 是一个基于 GitHub 和 Google Cloud Gmail API 构建的个人学习日程自动化发送系统。
-通过本系统，可以每天接收定制化学习计划邮件，结合提示工程练习与项目实操，逐步掌握软件工程与人工智能应用开发能力。
+## 📌 项目目标
 
-## 功能特色
+本项目旨在帮助学习者通过系统化方式掌握软件工程、提示工程与人工智能相关知识，逐步构建实际可用的自动化工具，并在过程中强化编程实践能力。
 
-- 自动从 GitHub 拉取学习计划 JSON 文件
-- 使用 Google Cloud Gmail API 自动发送学习内容邮件
-- 每天最多学习 2 小时，注重效率与持续性
-- 结合提示工程训练，提高与 AI 的交互能力
-- 结合实际项目（Daily Plan系统）逐步实操扩展
+- 📧 Gmail API 邮件提醒
+- 🧠 提示工程学习 JSON 模板
+- 🔄 自动化脚本执行任务
+- 💡 结合实战项目进行阶段性总结与功能扩展
 
-## 技术栈
+## 🗂️ 目录结构说明
 
-- GitHub (存储学习资源与项目代码)
-- Google Cloud Console (Gmail API)
-- Python (发送邮件与自动化脚本)
-- JSON (存储学习计划)
-- Visual Studio Code (开发环境)
-
-## 快速开始
-
-1. 配置 Google Cloud Console 项目并启用 Gmail API
-
-2. 下载 `credentials.json` 与 `token.json` 到本地
-
-3. 克隆本项目到本地：
-
-   ```bash
-   git clone https://github.com/你的用户名/daily-learning-plan-chatgpt.git
-   ```
-
-4. 安装必要的 Python 库：
-
-   ```bash
-   pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
-   ```
-
-5. 运行发送邮件脚本（示例）：
-
-   ```bash
-   python send_daily_plan.py
-   ```
-
-## 文件结构
-
-```
-/Daily-Plan-Mail-Send
-    ├── credentials.json
-    ├── token.json
-    ├── send_daily_plan.py
-/learning-plan
-    ├── aurora_plan.json
-README.md
+```bash
+Aurora-Plan/
+├── config/                    # 配置文件，如 Gmail API 授权
+│   ├── credentials.json
+│   └── token.json
+├── data/                      # 学习计划数据文件（每日任务、总结）
+│   └── learning_plan.json
+├── email_templates/          # HTML 富格式邮件模板
+│   ├── day_1.html
+│   └── week_summary_1.html
+├── scripts/                  # 执行任务的主脚本（发送邮件、加载计划）
+│   ├── send_daily_email.py
+│   └── utils.py
+├── notes/                    # 提示工程相关笔记（可拓展为 Markdown）
+│   └── prompting_notes.md
+├── .gitignore
+├── README.md
+└── requirements.txt
 ```
 
-## 后续扩展
+## 🚀 快速开始
 
-- 增加提示工程练习模块
-- 整合到 Web 界面（可选）
-- 支持多模板、多计划发送
-- 提供每日学习数据统计与分析
+### 1. 克隆仓库并安装依赖
 
-## 致谢
+```bash
+git clone https://github.com/your-username/Aurora-Plan.git
+cd Aurora-Plan
+pip install -r requirements.txt
+```
 
-感谢自己在成长路上的坚持！🌟
+### 2. 配置 Gmail API
+
+将你从 [Google Cloud Console](https://console.cloud.google.com/) 下载的 `credentials.json` 和授权生成的 `token.json` 放入 `config/` 目录。
+
+### 3. 运行每日任务邮件发送
+
+```bash
+python scripts/send_daily_email.py
+```
+
+程序将读取 `data/learning_plan.json` 中的当天任务内容，并调用 Gmail API 发送邮件。
+
+## ✨ 核心功能
+
+- 每日学习内容任务 + 邮件提醒
+- 支持 HTML 富格式邮件
+- 提示工程相关提示词记录与实践
+- 每 7 天自动生成阶段总结邮件
+- 可拓展的目录结构（支持笔记、脚本、模型接口等）
+
+## 📚 推荐学习方式
+
+> 每天 1～2 小时，坚持输出 + 实战演练，结合 Aurora-Plan 实际开发过程完成提示工程的学习与复现。
+
+1. 每天完成学习计划 JSON 中的任务；
+2. 阅读邮件内容中 HTML 模板里的提示与鼓励；
+3. 在 `notes/` 目录记录今日笔记、反思与反馈；
+4. 逐步拓展项目功能，例如：
+   - 增加发送 Slack 通知
+   - 增加日历集成
+   - 自动整理每周总结到 Notion 或 Obsidian
+
+## 🔒 安全建议
+
+- `credentials.json` 和 `token.json` 不应提交到公共仓库。
+- `.gitignore` 已自动排除上述文件。
+
+## 🤝 协作与贡献
+
+欢迎任何建议与贡献，后续将支持更多脚本模块和自动化调度能力。
+
+---
+
+_🪐 Aurora-Plan，点亮学习与创作的未来之旅。_
