@@ -36,4 +36,15 @@ def send_email(sender, to, subject, body_text):
     service = get_gmail_service()
     message = create_message(sender, to, subject, body_text)
     try:
-        sent_message = service.users().messages().send(userId='me',
+        sent_message = service.users().messages().send(userId='me', body=message).execute()
+        print(f'✅ Email sent to {to}. Message ID: {sent_message["id"]}')
+    except Exception as e:
+        print(f'❌ An error occurred: {e}')
+
+if __name__ == '__main__':
+    sender_email = '你的邮箱@gmail.com'  # 👉 请替换为你的 Gmail
+    recipient_email = '收件人邮箱@gmail.com'  # 👉 测试时可以填自己
+    subject = '测试邮件：来自Aurora学习计划'
+    body_text = '<h2>你好，这是一次测试邮件</h2><p>来自你的自动化学习项目 🚀</p>'
+
+    send_email(sender_email, recipient_email, subject, body_text)
