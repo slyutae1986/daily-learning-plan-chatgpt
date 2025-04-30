@@ -1,1 +1,8 @@
-{"sender": "your_email@gmail.com", "template": "daily_motivation_1.html"}
+{
+  "default_email": "your_email@example.com",
+  "send_time": "07:00",
+  "email_template": "daily_motivation_1.html",
+  "summary_template": "weekly_summary.html",
+  "plan_path": "data/optimized_aurora_learning_plan_90days.json",
+  "log_path": "logs/email_log.txt"
+}
