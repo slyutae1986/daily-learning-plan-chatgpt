@@ -5,1081 +5,121 @@
       "day": 1,
       "date": "2025-05-05",
       "title": "Aurora Day 1",
-      "focus": "学习提示工程相关知识与实践技能",
+      "focus": "提示工程基础 + Python 变量和类型",
       "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
+        "学习提示工程概念与基础结构。",
+        "阅读：廖雪峰 Python 编程基础。",
+        "视频教程：吴恩达的深度学习课程 - 第1章。"
       ],
-      "email_template": "<h2>Day 1 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
+      "email_template": "<h2>Day 1 - 勇往直前！</h2><p>今天你将开始学习提示工程的基础概念。掌握它，未来的学习会更加顺利！</p><p><strong>任务要点：</strong>理解提示的基本结构，开始尝试简单任务。</p>"
     },
     {
       "day": 2,
       "date": "2025-05-06",
       "title": "Aurora Day 2",
-      "focus": "学习语言模型原理相关知识与实践技能",
+      "focus": "链式思维与提示调优",
       "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
+        "学习链式推理和提示调优技巧。",
+        "阅读：如何在复杂任务中使用多轮提示。",
+        "实操：调试OpenAI API，完成一个简单的问答系统。"
       ],
-      "email_template": "<h2>Day 2 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
+      "email_template": "<h2>Day 2 - 持续进步！</h2><p>今天你将学习链式推理和提示调优，让你的任务更加精确高效！</p><p><strong>任务要点：</strong>理解并尝试实践链式思维提示。</p>"
     },
     {
       "day": 3,
       "date": "2025-05-07",
       "title": "Aurora Day 3",
-      "focus": "学习实操项目相关知识与实践技能",
+      "focus": "上下文与语境引导 + Python 条件与逻辑语句",
       "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
+        "理解提示中的上下文保持与语境导向技巧。",
+        "阅读：如何通过Python编写条件语句和逻辑控制。",
+        "实操：用Python实现BMI计算器，使用if-else判断是否正常。"
       ],
-      "email_template": "<h2>Day 3 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
+      "email_template": "<h2>Day 3 - 控制上下文，掌控对话节奏！</h2><p>今天你将学会如何让 AI 保持话题一致，避免“短期记忆丧失”。同时，Python 的条件判断也让你的代码会思考了！</p><p><strong>任务要点：</strong>掌握提示中的上下文管理，练习Python基本判断逻辑。</p>"
     },
     {
       "day": 4,
       "date": "2025-05-08",
       "title": "Aurora Day 4",
-      "focus": "学习提示工程相关知识与实践技能",
+      "focus": "Few-shot 示例与链式提示 + Python 循环结构",
       "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
+        "学习如何通过few-shot和链式思维进行高效提示设计。",
+        "学习Python的循环结构（for, while）及应用。",
+        "实操：用few-shot设计AI推理任务，编写一个用Python生成九九乘法表的程序。"
       ],
-      "email_template": "<h2>Day 4 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
+      "email_template": "<h2>Day 4 - AI 模仿能力的秘密武器</h2><p>今天我们将教AI如何模仿你的思维，使用few-shot提升提示能力，Python循环控制也将使你更高效处理数据。</p><p><strong>任务要点：</strong>学习few-shot设计，练习Python循环结构。</p>"
     },
     {
       "day": 5,
       "date": "2025-05-09",
       "title": "Aurora Day 5",
-      "focus": "学习语言模型原理相关知识与实践技能",
+      "focus": "链式思维提示（Chain-of-Thought）+ Python 函数定义与调用",
       "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
+        "学习如何利用链式思维提示提升模型推理效率。",
+        "掌握Python函数定义与调用，构建更灵活的代码结构。",
+        "实操：设计一个分步骤推理的prompt，编写一个Python函数实现基本加法、减法功能。"
       ],
-      "email_template": "<h2>Day 5 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
+      "email_template": "<h2>Day 5 - 让 AI 一步步思考吧！</h2><p>今天你将学习链式思维提示与Python函数，帮助AI在处理复杂问题时更加理性思考，同时掌握函数的基本应用。</p><p><strong>任务要点：</strong>设计链式推理提示，实践函数编写与调用。</p>"
     },
     {
       "day": 6,
       "date": "2025-05-10",
       "title": "Aurora Day 6",
-      "focus": "学习实操项目相关知识与实践技能",
+      "focus": "提示调试与多轮改进 + Python 模块与文件操作基础",
       "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
+        "学习提示调试技巧，优化任务输出效果。",
+        "掌握Python文件读写与模块化概念，提升代码复用性。",
+        "实操：用提示优化AI文章生成任务，实现一个简单的文件读写工具。"
       ],
-      "email_template": "<h2>Day 6 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
+      "email_template": "<h2>Day 6 - 调 Prompt 如调程序！</h2><p>今天你将学习提示调试和多轮优化，同时提升Python的文件操作能力，打通提示与代码的完整流程。</p><p><strong>任务要点：</strong>进行多轮优化，编写文件操作脚本。</p>"
     },
     {
       "day": 7,
       "date": "2025-05-11",
       "title": "Aurora Day 7",
-      "focus": "学习提示工程相关知识与实践技能",
+      "focus": "阶段复盘 + 项目：对话机器人提示设计 + Python 综合练习",
       "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
+        "复盘前6天所学内容，梳理遇到的困难与解决方案。",
+        "开始构建一个简易的对话机器人，使用提示设计对话流。",
+        "用Python综合练习，编写一个简单的CLI（命令行界面）程序，接受用户输入并执行任务。"
       ],
-      "email_template": "<h2>Day 7 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
+      "email_template": "<h2>Day 7 - 第一周冲刺完成！</h2><p>你完成了第一周的学习任务！今天我们进行回顾和总结，准备迎接更加深入的挑战！</p><p><strong>任务要点：</strong>总结复习，进行一个综合项目开发。</p>"
     },
     {
       "day": 8,
       "date": "2025-05-12",
       "title": "Aurora Day 8",
-      "focus": "学习语言模型原理相关知识与实践技能",
+      "focus": "高级 few-shot + 数据结构：列表与元组",
       "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
+        "学习如何设计高级few-shot任务，提升模型在复杂任务中的表现。",
+        "学习Python中的列表和元组数据结构，并进行实际应用。",
+        "编写Python脚本，操作列表，创建购物清单并进行增删改查操作。"
       ],
-      "email_template": "<h2>Day 8 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
+      "email_template": "<h2>Day 8 - AI 的样例就是你教它的方式！</h2><p>今天你将提升任务的复杂性，学习更高级的few-shot技巧，同时掌握Python中非常重要的数据结构。</p><p><strong>任务要点：</strong>学习设计高级任务，练习列表操作。</p>"
     },
     {
       "day": 9,
       "date": "2025-05-13",
       "title": "Aurora Day 9",
-      "focus": "学习实操项目相关知识与实践技能",
+      "focus": "嵌套结构提示 + Python 字典与集合",
       "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
+        "学习嵌套结构提示设计，理解如何处理复杂任务与多层次信息。",
+        "掌握Python字典与集合的应用，进行任务数据的组织与管理。",
+        "编写Python程序，统计文本中的词频并使用字典进行输出。"
       ],
-      "email_template": "<h2>Day 9 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
+      "email_template": "<h2>Day 9 - 多任务提示设计挑战！</h2><p>今天你将挑战嵌套提示设计，帮助AI处理多任务。同时掌握Python字典与集合，让数据管理更加高效。</p><p><strong>任务要点：</strong>设计复杂提示，练习字典和集合。</p>"
     },
     {
       "day": 10,
       "date": "2025-05-14",
       "title": "Aurora Day 10",
-      "focus": "学习提示工程相关知识与实践技能",
+      "focus": "Tool Use 结构 + Python 模块封装",
       "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
+        "学习工具调用（Tool Use），提升AI对外部数据源的交互能力。",
+        "掌握Python模块封装和代码复用，提升代码的组织性和清晰性。",
+        "实操：构建一个基于工具调用的多功能程序，并将其封装为Python模块。"
       ],
-      "email_template": "<h2>Day 10 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 11,
-      "date": "2025-05-15",
-      "title": "Aurora Day 11",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 11 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 12,
-      "date": "2025-05-16",
-      "title": "Aurora Day 12",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 12 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 13,
-      "date": "2025-05-17",
-      "title": "Aurora Day 13",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 13 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 14,
-      "date": "2025-05-18",
-      "title": "Aurora Day 14",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 14 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 15,
-      "date": "2025-05-19",
-      "title": "Aurora Day 15",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 15 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 16,
-      "date": "2025-05-20",
-      "title": "Aurora Day 16",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 16 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 17,
-      "date": "2025-05-21",
-      "title": "Aurora Day 17",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 17 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 18,
-      "date": "2025-05-22",
-      "title": "Aurora Day 18",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 18 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 19,
-      "date": "2025-05-23",
-      "title": "Aurora Day 19",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 19 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 20,
-      "date": "2025-05-24",
-      "title": "Aurora Day 20",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 20 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 21,
-      "date": "2025-05-25",
-      "title": "Aurora Day 21",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 21 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 22,
-      "date": "2025-05-26",
-      "title": "Aurora Day 22",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 22 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 23,
-      "date": "2025-05-27",
-      "title": "Aurora Day 23",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 23 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 24,
-      "date": "2025-05-28",
-      "title": "Aurora Day 24",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 24 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 25,
-      "date": "2025-05-29",
-      "title": "Aurora Day 25",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 25 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 26,
-      "date": "2025-05-30",
-      "title": "Aurora Day 26",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 26 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 27,
-      "date": "2025-05-31",
-      "title": "Aurora Day 27",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 27 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 28,
-      "date": "2025-06-01",
-      "title": "Aurora Day 28",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 28 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 29,
-      "date": "2025-06-02",
-      "title": "Aurora Day 29",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 29 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 30,
-      "date": "2025-06-03",
-      "title": "Aurora Day 30",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 30 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 31,
-      "date": "2025-06-04",
-      "title": "Aurora Day 31",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 31 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 32,
-      "date": "2025-06-05",
-      "title": "Aurora Day 32",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 32 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 33,
-      "date": "2025-06-06",
-      "title": "Aurora Day 33",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 33 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 34,
-      "date": "2025-06-07",
-      "title": "Aurora Day 34",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 34 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 35,
-      "date": "2025-06-08",
-      "title": "Aurora Day 35",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 35 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 36,
-      "date": "2025-06-09",
-      "title": "Aurora Day 36",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 36 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 37,
-      "date": "2025-06-10",
-      "title": "Aurora Day 37",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 37 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 38,
-      "date": "2025-06-11",
-      "title": "Aurora Day 38",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 38 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 39,
-      "date": "2025-06-12",
-      "title": "Aurora Day 39",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 39 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 40,
-      "date": "2025-06-13",
-      "title": "Aurora Day 40",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 40 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 41,
-      "date": "2025-06-14",
-      "title": "Aurora Day 41",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 41 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 42,
-      "date": "2025-06-15",
-      "title": "Aurora Day 42",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 42 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 43,
-      "date": "2025-06-16",
-      "title": "Aurora Day 43",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 43 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 44,
-      "date": "2025-06-17",
-      "title": "Aurora Day 44",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 44 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 45,
-      "date": "2025-06-18",
-      "title": "Aurora Day 45",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 45 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 46,
-      "date": "2025-06-19",
-      "title": "Aurora Day 46",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 46 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 47,
-      "date": "2025-06-20",
-      "title": "Aurora Day 47",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 47 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 48,
-      "date": "2025-06-21",
-      "title": "Aurora Day 48",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 48 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 49,
-      "date": "2025-06-22",
-      "title": "Aurora Day 49",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 49 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 50,
-      "date": "2025-06-23",
-      "title": "Aurora Day 50",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 50 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 51,
-      "date": "2025-06-24",
-      "title": "Aurora Day 51",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 51 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 52,
-      "date": "2025-06-25",
-      "title": "Aurora Day 52",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 52 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 53,
-      "date": "2025-06-26",
-      "title": "Aurora Day 53",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 53 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 54,
-      "date": "2025-06-27",
-      "title": "Aurora Day 54",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 54 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 55,
-      "date": "2025-06-28",
-      "title": "Aurora Day 55",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 55 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 56,
-      "date": "2025-06-29",
-      "title": "Aurora Day 56",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 56 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 57,
-      "date": "2025-06-30",
-      "title": "Aurora Day 57",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 57 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 58,
-      "date": "2025-07-01",
-      "title": "Aurora Day 58",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 58 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 59,
-      "date": "2025-07-02",
-      "title": "Aurora Day 59",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 59 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 60,
-      "date": "2025-07-03",
-      "title": "Aurora Day 60",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 60 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 61,
-      "date": "2025-07-04",
-      "title": "Aurora Day 61",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 61 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 62,
-      "date": "2025-07-05",
-      "title": "Aurora Day 62",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 62 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 63,
-      "date": "2025-07-06",
-      "title": "Aurora Day 63",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 63 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 64,
-      "date": "2025-07-07",
-      "title": "Aurora Day 64",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 64 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 65,
-      "date": "2025-07-08",
-      "title": "Aurora Day 65",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 65 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 66,
-      "date": "2025-07-09",
-      "title": "Aurora Day 66",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 66 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 67,
-      "date": "2025-07-10",
-      "title": "Aurora Day 67",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 67 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 68,
-      "date": "2025-07-11",
-      "title": "Aurora Day 68",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 68 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 69,
-      "date": "2025-07-12",
-      "title": "Aurora Day 69",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 69 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 70,
-      "date": "2025-07-13",
-      "title": "Aurora Day 70",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 70 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 71,
-      "date": "2025-07-14",
-      "title": "Aurora Day 71",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 71 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 72,
-      "date": "2025-07-15",
-      "title": "Aurora Day 72",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 72 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 73,
-      "date": "2025-07-16",
-      "title": "Aurora Day 73",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 73 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 74,
-      "date": "2025-07-17",
-      "title": "Aurora Day 74",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 74 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 75,
-      "date": "2025-07-18",
-      "title": "Aurora Day 75",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 75 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 76,
-      "date": "2025-07-19",
-      "title": "Aurora Day 76",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 76 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 77,
-      "date": "2025-07-20",
-      "title": "Aurora Day 77",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 77 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 78,
-      "date": "2025-07-21",
-      "title": "Aurora Day 78",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 78 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 79,
-      "date": "2025-07-22",
-      "title": "Aurora Day 79",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 79 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 80,
-      "date": "2025-07-23",
-      "title": "Aurora Day 80",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 80 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 81,
-      "date": "2025-07-24",
-      "title": "Aurora Day 81",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 81 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 82,
-      "date": "2025-07-25",
-      "title": "Aurora Day 82",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 82 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 83,
-      "date": "2025-07-26",
-      "title": "Aurora Day 83",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 83 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 84,
-      "date": "2025-07-27",
-      "title": "Aurora Day 84",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 84 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 85,
-      "date": "2025-07-28",
-      "title": "Aurora Day 85",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 85 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 86,
-      "date": "2025-07-29",
-      "title": "Aurora Day 86",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 86 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 87,
-      "date": "2025-07-30",
-      "title": "Aurora Day 87",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 87 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 88,
-      "date": "2025-07-31",
-      "title": "Aurora Day 88",
-      "focus": "学习提示工程相关知识与实践技能",
-      "tasks": [
-        "阅读：https://platform.openai.com/docs/guides/prompt-engineering",
-        "视频或课程：https://www.promptingguide.ai/",
-        "实操：https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
-      ],
-      "email_template": "<h2>Day 88 - 勇往直前！</h2><p>今天我们继续深入提示工程的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 89,
-      "date": "2025-08-01",
-      "title": "Aurora Day 89",
-      "focus": "学习语言模型原理相关知识与实践技能",
-      "tasks": [
-        "阅读：https://jalammar.github.io/illustrated-transformer/",
-        "视频或课程：https://huggingface.co/learn/nlp-course/chapter1",
-        "实操：https://lilianweng.github.io/posts/2023-06-23-agent/"
-      ],
-      "email_template": "<h2>Day 89 - 勇往直前！</h2><p>今天我们继续深入语言模型原理的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
-    },
-    {
-      "day": 90,
-      "date": "2025-08-02",
-      "title": "Aurora Day 90",
-      "focus": "学习实操项目相关知识与实践技能",
-      "tasks": [
-        "阅读：https://github.com/openai/openai-cookbook",
-        "视频或课程：https://github.com/f/awesome-chatgpt-prompts",
-        "实操：https://github.com/promptslab/Awesome-Prompt-Engineering"
-      ],
-      "email_template": "<h2>Day 90 - 勇往直前！</h2><p>今天我们继续深入实操项目的世界，掌握新技能！</p><p><strong>任务要点：</strong>理解并尝试实践</p><p><em>Aurora与你同行，照亮知识之路！</em></p>"
+      "email_template": "<h2>Day 10 - 工具型提示 + 模块化思维</h2><p>提示工程与函数调用结合，掌握工具使用与多功能模块化设计。让AI工具更智能，代码更优雅。</p><p><strong>任务要点：</strong>学习工具型提示，模块化组织代码。</p>"
     }
   ]
 }
